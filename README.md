@@ -3,8 +3,8 @@
 <!-- TO DO : Add more details about me later -->
 
 I'm WCollins Wakahenya,
-- :satisfied: Hoping to be a guru in this.
-- :fist: Definitely up to the task.
+- :satisfied: Definitely being a guru in this.
+- :fist: Always up to the task.
 - :thumbsup: Open to learning.
 -----------------------
 
