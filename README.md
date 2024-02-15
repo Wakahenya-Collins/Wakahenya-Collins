@@ -2,7 +2,7 @@
 
 <!-- TO DO : Add more details about me later -->
 
-I'm WCollins Wakahenya,
+I'm Collins Wakahenya,
 - :satisfied: Definitely being a guru in this.
 - :fist: Always up to the task.
 - :thumbsup: Open to learning.
